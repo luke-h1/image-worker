@@ -105,7 +105,7 @@ body {
 }
 
 .author-image {
-  width: 1.5em;
+  width: 1em;
   border-radius: 50%;
   margin-bottom: -9px;
 }
