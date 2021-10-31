@@ -3,7 +3,7 @@ import { sanitizeHtml } from "./sanitizer";
 
 
 function getCss(titleLength: number) {
-  let fontSize = 200;
+  let fontSize = 50;
   let lines = 3;
   if (titleLength > 80) {
     fontSize = 90;
